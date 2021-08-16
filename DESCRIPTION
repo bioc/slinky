@@ -1,10 +1,9 @@
 Package: slinky
 Type: Package
 Title: Putting the fun in LINCS L1000 data analysis
-Version: 1.10.0
-Date: 2019-10-04
-Author: Eric J. Kort
-Maintainer: Eric J. Kort  <eric.kort@vai.org>
+Version: 1.11.1
+Date: 2021-08-16
+Authors@R: person("Eric", "Kort", email = "eric.kort@vai.org",role = c("aut", "cre"))
 Description: Wrappers to query the L1000 metadata available via the clue.io 
     REST API as well as helpers for dealing with LINCS gctx files, extracting 
     data sets of interest, converting to SummarizedExperiment objects, and 
