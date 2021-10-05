@@ -36,6 +36,7 @@ Collate:
     'slinky_scoring.R'
     'slinky_chdir.R'
     'slinky_ks.R'
+    'zzz.R'
 Suggests:
     GeoDE,
     doParallel,
